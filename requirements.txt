@@ -86,6 +86,7 @@ pycodestyle==2.13.0
 pycparser==2.22
 pyflakes==3.3.2
 Pygments==2.19.1
+pynance @ git+https://github.com/mqandil/pynance.git@c5e61505d60722d7e70bab80fff734181432026c
 pyparsing==3.2.3
 pytest==8.3.5
 python-dateutil==2.9.0.post0
@@ -128,4 +129,5 @@ webcolors==24.11.1
 webencodings==0.5.1
 websocket-client==1.8.0
 websockets==15.0.1
+wordcloud==1.9.4
 yfinance==0.2.61
