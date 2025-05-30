@@ -16,7 +16,7 @@ Nova Financial Solution is designed to provide innovative tools and resources fo
 ## Getting Started
 
 1. Clone the repository:
-    git clone https://github.com/your-username/nova-financial-solution.git
+   git clone https://github.com/Teddy-GH/nova-financial-solution.git
 
 2. Follow the setup instructions in the `docs/` directory.
 
